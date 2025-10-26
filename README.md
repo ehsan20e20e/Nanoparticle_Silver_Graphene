@@ -1,2 +1,2 @@
 # Nanoparticle_Silver_Graphene
-The code for the work presented in the research paper titled "Efficient extinction spectrum prediction and inverse design for plasmonic sensors based on graphene-coated silver nanoparticles by deep learning"
+The code for the work presented in the research paper titled "A_deep_learning_method_for_extinction_spectrum_prediction_and_graphene-coated_silver_nanoparticles_inverse_design"
